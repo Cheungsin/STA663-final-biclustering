@@ -10,7 +10,7 @@ setuptools.setup(
     author="Chengxin Yang, Guanqi Zeng",
     author_email="chengxin.yang@duke.edu, guanqi.zeng@duke.edu",
     description='A python package of Biclustering for Sparse matrix',
-    url="https://github.com/GuanqizEng/STA663-final-biclustering",
+    url="https://github.com/Cheungsin/STA663-final-biclustering",
     py_modules = ['STA-663-final-biclustering-cxgq'],
     classifiers=[
         "Programming Language :: Python :: 3",
